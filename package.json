@@ -1,0 +1,23 @@
+{
+  "name": "npm_module_test1",
+  "version": "1.0.0",
+  "description": "Test Package for simple math",
+  "main": "math.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep2180/npm_module_test1.git"
+  },
+  "keywords": [
+    "math",
+    "simple"
+  ],
+  "author": "Arindam Lahiri <arindam.lahiri@gmail.com> (https://github.com/deep2180)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep2180/npm_module_test1/issues"
+  },
+  "homepage": "https://github.com/deep2180/npm_module_test1#readme"
+}
